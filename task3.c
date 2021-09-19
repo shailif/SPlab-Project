@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <stdio_ext.h>
 #include <string.h>
-//#include <byteswap.h>
 #include <stdbool.h>
 
 char endian;
